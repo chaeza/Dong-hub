@@ -1,0 +1,6 @@
+Hello, Git
+<<<<<<< HEAD
+gisss
+=======
+My name is kcs
+>>>>>>> kcs
